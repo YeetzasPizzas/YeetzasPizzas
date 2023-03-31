@@ -1,0 +1,26 @@
+div {
+     font-family:'Calibri';
+     text-align: center;
+    color:whitesmoke;
+    font-size:xx-large;
+}
+body {
+     background-color:skyblue;
+}
+h1 {
+    color:rgb(255, 102, 0);
+    font-family:'Segoe UI';
+}
+h2 {
+    color:navy;
+    font-family: sans-serif;
+}
+.imageContainer {
+    width: 729px;
+    height: 528px;
+    background-image:url(lemonade-post.jpg);
+}
+p1 {
+   font-family: 'Arial';
+   font-size: x-large;
+}
